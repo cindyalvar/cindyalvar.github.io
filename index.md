@@ -1,23 +1,34 @@
-<img src="headshot.jpg" alt="Headshot" width="300" height="400">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- Left column: Photo, Name, and Bio -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="headshot.jpg" alt="Cindy Alvarez" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
+    <h1>Cindy Alvarez</h1>
+    <p>Doctoral Student in Health Policy<br>
+    University of California, Berkeley</p>
+  </div>
 
+  <!-- Right column: Interests and Education -->
+  <div style="flex: 1; min-width: 300px;">
+    <h2>Interests</h2>
+    <ul>
+      <li>Primary care</li>
+      <li>Public health</li>
+      <li>Medicaid policy</li>
+      <li>Health related social needs</li>
+    </ul>
 
-# Cindy Alvarez
-## Health Policy PhD Student
-## University of California, Berkeley
+    <h2>Education</h2>
+    <ul>
+      <li>PhD in Health Policy, <em>in progress</em><br>
+      <em>University of California, Berkeley</em></li>
+      <li>MPH in Health Policy<br>
+      <em>Yale School of Public Health</em></li>
+    </ul>
+  </div>
+</div>
 
+---
 
-**Interests**
-* Primary care
-* Public health
-* Medicaid policy
-* Health related social needs
+## Contact
 
-
-**Education**
-
-* PhD in Health Policy, 2024 -   
-*University of California, Berkeley*
-* MPH in Health Policy   
-*Yale School of Public Health*
-* BA in Sociology and History of Science, Medicine, and Public Health   
-*Yale University*
+- <a href="mailto:cindy_alvarez@berkeley.edu">Email</a>
