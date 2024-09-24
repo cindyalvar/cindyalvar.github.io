@@ -5,7 +5,7 @@
   </nav>
   <!-- Left column: Photo, Name, and Bio -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="headshot.jpg" alt="Cindy Alvarez" style="width: 300px; height: 300px; bor>
+    <img src="headshot.jpg" alt="Cindy Alvarez" style="width: 300px; height: 300px; border-radius: 50%;">
     <h1>Cindy Alvarez</h1>
     <p>Doctoral Student in Health Policy<br>
     University of California, Berkeley</p>
