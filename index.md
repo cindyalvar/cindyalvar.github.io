@@ -1,4 +1,4 @@
-![picture](headshot.jpg)
+<img src="headshot.jpg" alt="Headshot" width="200" height="300">
 
 
 # Cindy Alvarez
@@ -6,18 +6,18 @@
 ## University of California, Berkeley
 
 
-** Interests **
+**Interests**
 * Primary care
 * Public health
 * Medicaid policy
 * Health related social needs
 
 
-** Education **
+**Education**
 
-* PhD in Health Policy, 2024-
+* PhD in Health Policy, 2024 -   
 *University of California, Berkeley*
-* MPH in Health Policy
+* MPH in Health Policy   
 *Yale School of Public Health*
-* BA in Sociology and History of Science, Medicine, and Public Health
+* BA in Sociology and History of Science, Medicine, and Public Health   
 *Yale University*
