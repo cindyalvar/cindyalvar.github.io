@@ -6,7 +6,6 @@
     <p>Doctoral Student in Health Policy<br>
     University of California, Berkeley</p>
   </div>
-
   <!-- Right column: Interests and Education -->
   <div style="flex: 1; min-width: 300px;">
     <h2>Interests</h2>
@@ -16,13 +15,14 @@
       <li>Medicaid policy</li>
       <li>Health related social needs</li>
     </ul>
-
     <h2>Education</h2>
     <ul>
-      <li>PhD in Health Policy, <em>in progress</em><br>
+      <li>PhD in Health Policy, in progress<br>
       <em>University of California, Berkeley</em></li>
       <li>MPH in Health Policy<br>
       <em>Yale School of Public Health</em></li>
+      <li>BA in Sociology and History of Science, Medicine and Public Health<br>
+      <em>Yale University</em></li>
     </ul>
   </div>
 </div>
