@@ -1,7 +1,11 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <nav style="width: 100%; margin-bottom: 20px;">
+    <a href="index.html">Home</a> |
+    <a href="projects.html">Projects</a>
+  </nav>
   <!-- Left column: Photo, Name, and Bio -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="headshot.jpg" alt="Cindy Alvarez" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
+    <img src="headshot.jpg" alt="Cindy Alvarez" style="width: 300px; height: 300px; bor>
     <h1>Cindy Alvarez</h1>
     <p>Doctoral Student in Health Policy<br>
     University of California, Berkeley</p>
