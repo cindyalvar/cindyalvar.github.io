@@ -1,4 +1,4 @@
-<img src="headshot.jpg" alt="Headshot" width="200" height="300">
+<img src="headshot.jpg" alt="Headshot" width="300" height="400">
 
 
 # Cindy Alvarez
