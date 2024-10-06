@@ -13,9 +13,6 @@ title: Projects
   <div style="flex: 1; min-width: 300px;">
     <h2>Current Projects</h2>
     <ul>
-      </li>
-        </ol>
-      </li>
     </ul>
   </div>
 </div>
