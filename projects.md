@@ -11,7 +11,7 @@ title: Projects
   
   <!-- Right column: List of Projects -->
   <div style="flex: 1; min-width: 300px;">
-    <h2>Currrent Projects</h2>
+    <h2>Current Projects</h2>
     <ul>
     </ul>
   </div>
